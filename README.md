@@ -10,4 +10,4 @@ Hi, I'm Ramesh, a Software Engineer about development and entrepreneurship.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
 - :pushpin: Interests: Frontend Design
 
-⭐️ From [weltonfelix](https://github.com/ramesh69)
+⭐️ From [ramesh69](https://github.com/ramesh69)
